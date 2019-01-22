@@ -12,7 +12,7 @@
 #include <opencv2/opencv.hpp>
 
 #include <iostream>
-
+#include <fstream>
 #include <stdio.h>
 #include <getopt.h>
 #include <string.h>
